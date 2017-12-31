@@ -1,0 +1,53 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  test_pipeline.cpp
+d:\vs2010\project\hyperlpr-master\prj-win\lpr\tests\test_pipeline.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\vs2010\project\hyperlpr-master\prj-win\lpr\include\platedetection.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\vs2010\project\hyperlpr-master\prj-win\lpr\include\plateinfo.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\vs2010\project\hyperlpr-master\prj-win\lpr\include\platesegmentation.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\vs2010\project\hyperlpr-master\prj-win\lpr\include\cnnrecognizer.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\vs2010\project\hyperlpr-master\prj-win\lpr\include\recognizer.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\vs2010\project\hyperlpr-master\prj-win\lpr\include\fastdeskew.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\vs2010\project\hyperlpr-master\prj-win\lpr\include\finemapping.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Recognizer.cpp
+d:\vs2010\project\hyperlpr-master\prj-win\lpr\src\recognizer.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\vs2010\project\hyperlpr-master\prj-win\lpr\include\recognizer.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\vs2010\project\hyperlpr-master\prj-win\lpr\include\plateinfo.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  PlateSegmentation.cpp
+d:\vs2010\project\hyperlpr-master\prj-win\lpr\src\platesegmentation.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\vs2010\project\hyperlpr-master\prj-win\lpr\include\platesegmentation.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\vs2010\project\hyperlpr-master\prj-win\lpr\include\plateinfo.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\vs2010\project\hyperlpr-master\prj-win\lpr\include\niblackthreshold.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  PlateDetection.cpp
+d:\vs2010\project\hyperlpr-master\prj-win\lpr\src\platedetection.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\vs2010\project\hyperlpr-master\prj-win\lpr\include\platedetection.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\vs2010\project\hyperlpr-master\prj-win\lpr\include\plateinfo.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\vs2010\project\hyperlpr-master\prj-win\lpr\src\util.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\vs2010\project\hyperlpr-master\prj-win\lpr\src\util.h(39): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\vs2010\project\hyperlpr-master\prj-win\lpr\src\util.h(71): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+  FineMapping.cpp
+d:\vs2010\project\hyperlpr-master\prj-win\lpr\src\finemapping.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\vs2010\project\hyperlpr-master\prj-win\lpr\include\finemapping.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\vs2010\project\hyperlpr-master\prj-win\lpr\src\finemapping.cpp(186): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\vs2010\project\hyperlpr-master\prj-win\lpr\src\finemapping.cpp(187): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\vs2010\project\hyperlpr-master\prj-win\lpr\src\finemapping.cpp(188): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\vs2010\project\hyperlpr-master\prj-win\lpr\src\finemapping.cpp(189): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  FastDeskew.cpp
+d:\vs2010\project\hyperlpr-master\prj-win\lpr\src\fastdeskew.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\vs2010\project\hyperlpr-master\prj-win\lpr\include\fastdeskew.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\vs2010\project\hyperlpr-master\prj-win\lpr\src\fastdeskew.cpp(19): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+d:\vs2010\project\hyperlpr-master\prj-win\lpr\src\fastdeskew.cpp(38): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\vs2010\project\hyperlpr-master\prj-win\lpr\src\fastdeskew.cpp(70): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\vs2010\project\hyperlpr-master\prj-win\lpr\src\fastdeskew.cpp(73): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\vs2010\project\hyperlpr-master\prj-win\lpr\src\fastdeskew.cpp(75): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\vs2010\project\hyperlpr-master\prj-win\lpr\src\fastdeskew.cpp(76): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\vs2010\project\hyperlpr-master\prj-win\lpr\src\fastdeskew.cpp(83): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\vs2010\project\hyperlpr-master\prj-win\lpr\src\fastdeskew.cpp(84): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\vs2010\project\hyperlpr-master\prj-win\lpr\src\fastdeskew.cpp(121): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+  CNNRecognizer.cpp
+d:\vs2010\project\hyperlpr-master\prj-win\lpr\src\cnnrecognizer.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\vs2010\project\hyperlpr-master\prj-win\lpr\include\cnnrecognizer.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\vs2010\project\hyperlpr-master\prj-win\lpr\include\recognizer.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\vs2010\project\hyperlpr-master\prj-win\lpr\include\plateinfo.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  正在生成代码...
+  Prj-Win.vcxproj -> D:\vs2010\Project\HyperLPR-master\Prj-Win\Build\Prj-Win.exe
+  Prj-Win.vcxproj -> D:\vs2010\Project\HyperLPR-master\Prj-Win\Build\Prj-Win.pdb (Full PDB)
